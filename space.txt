@@ -1,0 +1,4 @@
+galaxy
+star
+nebula
+supernova 
